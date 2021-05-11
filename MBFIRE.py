@@ -301,8 +301,8 @@ def mbf():
                            time.sleep(0.1)
                            print("\033[1;94m──────────────────────────────────────────────────")
                            print("\n\033[00m[\033[92m✓\033[00m] Done")
-                           print("\033[00m[\033[92m✓\033[00m]life : \033[92mresults-life.txt\033[00m")
-                           print("\033[00m[\033[91m!\033[00m]checkpoint : \033[93mresults-check.txt\033[00m")
+                           print("\033[00m[\033[92m✓\033[00m]Crack : \033[92mresults-Ok.txt\033[00m")
+                           print("\033[00m[\033[91m!\033[00m]CP : \033[93mresults-check.txt\033[00m")
                            print("\033[1;94m──────────────────────────────────────────────────")
                            print("\n\n")
                    
